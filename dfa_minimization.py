@@ -218,7 +218,7 @@ Un exemplu de input:
 1 3 b
 2 2 a
 2 4 b
-3 2 a
+3 7 a
 3 3 b
 4 2 a
 4 5 b
